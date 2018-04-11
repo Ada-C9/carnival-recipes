@@ -1,6 +1,17 @@
 Charles' Banana Bread
 ---------------------
+<<<<<<< HEAD
+Ingredients:
+1 teaspoon baking soda
+1 1/2 cups flower
 1/2 teaspoon salt
 
+Directions:
+3. Cream together butter and sugar.
 4. Add eggs and crushed bananas. Combine well.
+7. Add vanilla.
 9. Mix just until combined. Do not overmix.
+11. Keeps well, refrigerated.
+
+Servings: 10
+Time: 1 hour 5 minutes
